@@ -1,0 +1,6 @@
+nohup: ignoring input
+2025/03/12 10:38:22 Using in-memory storage
+2025/03/12 10:38:22 [SMTP] Binding to address: 0.0.0.0:1025
+[HTTP] Binding to address: 0.0.0.0:8025
+2025/03/12 10:38:22 Serving under http://0.0.0.0:8025/
+2025/03/12 10:38:22 [SMTP] Error listening on socket: listen tcp 0.0.0.0:1025: bind: address already in use
