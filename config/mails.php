@@ -52,7 +52,7 @@ return [
 
         // Enable logging of all sent mails to database
 
-        'enabled' => env('MAILS_LOGGING_ENABLED', true),
+      //  'enabled' => env('MAILS_LOGGING_ENABLED', true),
 
         // Specify attributes to log in database
 
